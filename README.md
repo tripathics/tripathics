@@ -23,5 +23,3 @@ UG, CSE at NITAP;<br>
 - ⚡️ Fun fact: I love pop music, on loop [Plastic Hearts - Miley Cyrus](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR?si=-6zpuKH4TQOGs7Ik39bBpg)
 
 [Resume](https://raw.githubusercontent.com/tripathics/resume/7d73cc617db7e93212b576f35e8e79301ee46f45/Chandrashekhar.pdf)
-
-![](https://komarev.com/ghpvc/?username=tripathics&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
