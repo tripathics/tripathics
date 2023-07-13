@@ -1,5 +1,11 @@
 ### Hello there 👋
 
+<p>
+<a href="https://tripathics.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Blog" /></a>&nbsp;
+<a href="https://discordapp.com/users/cstrip"><img src="https://img.shields.io/badge/Discord-3A3A3A?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/tripathics/"><img src="https://img.shields.io/badge/LinkedIn-6A6A6A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+</p>
+
 #### A Full-Stack Developer by day ☼ and a learner by ☾
 
 Alumni Coordinator at Alumni cell, NITAP<br>
@@ -8,7 +14,7 @@ Vice President at Coding club, NITAP;<br>
 UG, CSE at NITAP;<br>
 
 #### Some facts about me
-- ⚙️ I use: `.nextjs`, `.reactjs`, `.nodejs`, `.js`, `.html`, `.scss`, `.svg`,
+- ⚙️ I use: `.nextjs`, `.reactjs`, `.nodejs`, `.js`, `.html`, `.scss`, `.svg`, `nodejs/express`, `.jwt`
 - 💅 Designed and built: [technodaya](https://technodaya.vercel.app), [atulyam23.com](https://www.atulyam23.com), [Vehicle management system](https://github.com/iocl-tracker) etc…
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **reactjs**, **nextjs**, **development**, **design thinking**, **anything**
