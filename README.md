@@ -1,4 +1,4 @@
-### Hello there 👋
+## Hello there 👋
 
 <p>
 <a href="https://tripathics.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Blog" /></a>&nbsp;
@@ -8,7 +8,7 @@
 
 #### A Full-Stack Developer by day ☼ and a learner by ☾
 
-Alumni Coordinator at Alumni cell, NITAP<br>
+Alumni Coordinator at Alumni cell, NITAP;<br>
 Editor, Maintainer at [Technodaya Newsletter](https://technodaya.vercel.app);<br>
 Vice President at Coding club, NITAP;<br>
 UG, CSE at NITAP;<br>
@@ -23,3 +23,5 @@ UG, CSE at NITAP;<br>
 - ⚡️ Fun fact: I love pop music, on loop [Plastic Hearts - Miley Cyrus](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR?si=-6zpuKH4TQOGs7Ik39bBpg)
 
 [Resume](https://raw.githubusercontent.com/tripathics/resume/7d73cc617db7e93212b576f35e8e79301ee46f45/Chandrashekhar.pdf)
+
+![](https://komarev.com/ghpvc/?username=tripathics&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
