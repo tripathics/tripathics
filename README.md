@@ -2,9 +2,9 @@
 
 
 <p>
-<a href="https://tripathics.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Blog" /></a>&nbsp;
-<a href="https://discordapp.com/users/cstrip"><img src="https://img.shields.io/badge/Discord-3A3A3A?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/tripathics/"><img src="https://img.shields.io/badge/LinkedIn-6A6A6A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://tripathics.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Blog" /></a>
+<a href="https://discordapp.com/users/cstrip"><img src="https://img.shields.io/badge/Discord-353535?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/tripathics/"><img src="https://img.shields.io/badge/LinkedIn-656565?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 #### A Full-Stack Developer by day ☼ and a learner by ☾
