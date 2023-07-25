@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/tripathics/"><img src="https://img.shields.io/badge/LinkedIn-656565?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-#### A Full-Stack Developer by day ☼ and a learner by ☾
+#### A Full-Stack Developer by <span title="Day">☼</span> and a learner by <span title="Night">☾</span>
 
 Alumni Coordinator at Alumni cell, NITAP;<br>
 Editor, Maintainer at [Technodaya Newsletter](https://technodaya.vercel.app);<br>
