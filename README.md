@@ -21,7 +21,7 @@ UG, CSE at [NITAP](https://nitap.ac.in);<br>
 - 💬 Ping me about **reactjs**, **nextjs**, **development**, **design thinking**, **anything**
 - 📫 Reach me: [tripathics@outlook.com](mailto://tripathics@outlook.com)
 
-- ⚡️ Fun fact: I love pop music, currently listening to [Plastic Hearts - Miley Cyrus](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR?si=-6zpuKH4TQOGs7Ik39bBpg)
+- ⚡️ Fun fact: I love pop music, currently listening to [Where's my love - SYML](https://open.spotify.com/track/0IRmoVD5Zbndp79ShxphRb?si=38670c6a4f8d4b79)
 
 #### My digital garden 🌱
 You can find my [projects](https://tripathics.github.io/projects) on my personal website [tripathics.github.io](https://tripathics.github.io).
