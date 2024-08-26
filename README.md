@@ -16,15 +16,13 @@ UG, CSE at [NITAP](https://nitap.ac.in);<br>
 
 #### Some facts about me
 - ⚙️ I use daily: `.nextjs`, `.reactjs`, `.nodejs`, `.js`, `.html`, `.scss`, `.svg`, `nodejs/express`, `.jwt`, `git/github`, `vscode`, `vim`, `zsh`
-- 💅 Designed and built: [technodaya](https://technodaya.vercel.app), [atulyam23.com](https://www.atulyam23.com), [Vehicle management system](https://github.com/iocl-tracker) etc…
+- 💅 Designed and built: [technodaya](https://technodaya.vercel.app), [atulyam 2023 website](https://atulyam23.netlify.app), [Vehicle management system](https://github.com/iocl-tracker) etc…
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **reactjs**, **nextjs**, **development**, **design thinking**, **anything**
 - 📫 Reach me: [tripathics@outlook.com](mailto://tripathics@outlook.com)
 
-- ⚡️ Fun fact: I love pop music, currently listening to [Where's my love - SYML](https://open.spotify.com/track/0IRmoVD5Zbndp79ShxphRb?si=38670c6a4f8d4b79)
+- ⚡️ Fun fact: I love pop music, currently listening to [Watcha doing - Dua Lipa](https://open.spotify.com/track/6bAkr9wkQyPM4IDrP4tuwR?si=MWnZjNHESgetyfo8cMHhHA&context=spotify%3Aalbum%3A1Mo92916G2mmG7ajpmSVrc)
 
 #### My digital garden 🌱
 You can find my [projects](https://tripathics.github.io/projects) on my personal website [tripathics.github.io](https://tripathics.github.io).
 Sometimes I write about the things I learn, things I make and tutorials for things I struggled with. 
-
-[Resume](https://raw.githubusercontent.com/tripathics/resume/7d73cc617db7e93212b576f35e8e79301ee46f45/Chandrashekhar.pdf)
